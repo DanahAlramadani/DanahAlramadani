@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=1974B2" alt="Instagram">
   </a>
 <a https://x.com/eng_danahis?s=21" target="_blue">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=1974B2" alt="X">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=1974B2" alt="Twitter">
   </a>
 <a href="mailto:Danahalramadni@gmail.com" mailto="Danahalramadni@gmail.com" target="_blue">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=1974B2" alt="Gmail">
