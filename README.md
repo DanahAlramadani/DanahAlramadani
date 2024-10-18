@@ -49,8 +49,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)
-
-
 <br/>
 
  ### :books: Learning:
