@@ -49,6 +49,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![php](https://img.shields.io/badge/-php-grey?style=flat-square&logo=php&logoColor=ffffff)
 <br/>
 
  ### :books: Learning:
@@ -64,7 +66,6 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
 <!-- can't stop myself from editing🙆🏽‍♀️… -->
