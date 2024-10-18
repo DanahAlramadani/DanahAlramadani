@@ -63,10 +63,6 @@
 - Backend Development (to become a Full-Stack developer) as a professional
 - At least delve into AI and ML.
 
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-</p>
 
 <!-- can't stop myself from editing🙆🏽‍♀️… -->
 
